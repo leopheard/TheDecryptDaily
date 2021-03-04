@@ -1,6 +1,8 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="">xxxxxxxxxx</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://soundcloud.com/user-792539118-188863837">Decrypt Daily</a> podcast.<br>
 
-<img src=""><br>
+<img src="https://i1.sndcdn.com/avatars-ywohqC4DmGaB7OU2-53js1A-original.jpg"><br>
+
+Stay on top of Bitcoin news with our daily podcast! Join Matthew Aaron and his special guests every day, as they take you through breaking news and crypto market updates.<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
